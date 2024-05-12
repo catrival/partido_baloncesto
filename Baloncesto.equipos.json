@@ -1,0 +1,56 @@
+[{
+  "_id": "60d5ec9af682fbd39a1b1681",
+  "nombre": "Eagle",
+  "ciudad": "Cali",
+  "entrenador": "11d5ec9af682fbd39a1b1685",
+  "jugadores": [
+    "60d5ec9af682fbd39a1b1684",
+    "20d5ec9af682fbd39a1b1684",
+    "10d5ec9af682fbd39a1b1684",
+    "41d5ec9af682fbd39a1b1684",
+    "11d5ec9af682fbd39a1b1684"
+  ],
+  "partidosJugados": 10,
+  "partidosGanados": 6,
+  "partidosPerdidos": 4
+},
+{
+  "_id": "11d5ec9af682fbd39a1b1681",
+  "nombre": "Lion",
+  "ciudad": "Cali",
+  "entrenador": "60d5ec9af682fbd39a1b1685",
+  "jugadores": [],
+  "partidosJugados": 4,
+  "partidosGanados": 2,
+  "partidosPerdidos": 2
+},
+{
+  "_id": "20d5ec9af682fbd39a1b1681",
+  "nombre": "Tura Power",
+  "ciudad": "Buenaventura",
+  "entrenador": "60d5ec9af682fbd39a1b1685",
+  "jugadores": [],
+  "partidosJugados": 12,
+  "partidosGanados": 10,
+  "partidosPerdidos": 2
+},
+{
+  "_id": "37d5ec9af682fbd39a1b1681",
+  "nombre": "Toxic Tiger",
+  "ciudad": "Yumbo",
+  "entrenador": "60d5ec9af682fbd39a1b1685",
+  "jugadores": [],
+  "partidosJugados": 5,
+  "partidosGanados": 3,
+  "partidosPerdidos": 2
+},
+{
+  "_id": "77d5ec9af682fbd39a1b1681",
+  "nombre": "Alta Cumbre",
+  "ciudad": "Yumbo",
+  "entrenador": "60d5ec9af682fbd39a1b1685",
+  "jugadores": [],
+  "partidosJugados": 7,
+  "partidosGanados": 3,
+  "partidosPerdidos": 4
+}]

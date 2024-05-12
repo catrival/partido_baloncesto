@@ -1,0 +1,30 @@
+[{
+  "_id": "11d5ec9af682fbd39a1b1685",
+  "nombre": "Carlos Valencia",
+  "edad": 49,
+  "equipo": "60d5ec9af682fbd39a1b1681"
+},
+{
+  "_id": "30d5ec9af682fbd39a1b1685",
+  "nombre": "Line Tyson",
+  "edad": 55,
+  "equipo": "20d5ec9af682fbd39a1b1681"
+},
+{
+  "_id": "40d5ec9af682fbd39a1b1685",
+  "nombre": "Eduardo Triana",
+  "edad": 48,
+  "equipo": "37d5ec9af682fbd39a1b1681"
+},
+{
+  "_id": "51d5ec9af682fbd39a1b1685",
+  "nombre": "Rodrigo Vart",
+  "edad": 60,
+  "equipo": "77d5ec9af682fbd39a1b1681"
+},
+{
+  "_id": "20d5ec9af682fbd39a1b1685",
+  "nombre": "Red Aurbach",
+  "edad": 50,
+  "equipo": "60d5ec9af682fbd39a1b1681"
+}]

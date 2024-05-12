@@ -1,0 +1,30 @@
+[{
+  "_id": "60d5ec9af682fbd39a1b1686",
+  "nombre": "Juan Moikoe",
+  "edad": 45,
+  "partidosArbitrados": 60
+},
+{
+  "_id": "10d5ec9af682fbd39a1b1686",
+  "nombre": "Luis Turky",
+  "edad": 35,
+  "partidosArbitrados": 10
+},
+{
+  "_id": "20d5ec9af682fbd39a1b1686",
+  "nombre": "Andres Vidal",
+  "edad": 41,
+  "partidosArbitrados": 40
+},
+{
+  "_id": "30d5ec9af682fbd39a1b1686",
+  "nombre": "Migual Ukumi",
+  "edad": 48,
+  "partidosArbitrados": 55
+},
+{
+  "_id": "40d5ec9af682fbd39a1b1686",
+  "nombre": "Erick Muñez",
+  "edad": 30,
+  "partidosArbitrados": 15
+}]

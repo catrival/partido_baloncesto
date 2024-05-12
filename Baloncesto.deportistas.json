@@ -1,0 +1,60 @@
+[{
+  "_id": "60d5ec9af682fbd39a1b1684",
+  "nombre": "Eduaro Lopez",
+  "edad": 24,
+  "equipo": "60d5ec9af682fbd39a1b1681",
+  "posicion": "Base",
+  "estadisticas": {
+    "puntos": 20,
+    "asistencias": 5,
+    "rebotes": 7
+  }
+},
+{
+  "_id": "20d5ec9af682fbd39a1b1684",
+  "nombre": "Alfonso Valency",
+  "edad": 26,
+  "equipo": "60d5ec9af682fbd39a1b1681",
+  "posicion": "Poste",
+  "estadisticas": {
+    "puntos": 10,
+    "asistencias": 10,
+    "rebotes": 20
+  }
+},
+{
+  "_id": "10d5ec9af682fbd39a1b1684",
+  "nombre": "Mario Catan",
+  "edad": 22,
+  "equipo": "60d5ec9af682fbd39a1b1681",
+  "posicion": "Armador",
+  "estadisticas": {
+    "puntos": 22,
+    "asistencias": 20,
+    "rebotes": 8
+  }
+},
+{
+  "_id": "41d5ec9af682fbd39a1b1684",
+  "nombre": "Luis Vegara",
+  "edad": 20,
+  "equipo": "60d5ec9af682fbd39a1b1681",
+  "posicion": "Poste",
+  "estadisticas": {
+    "puntos": 20,
+    "asistencias": 18,
+    "rebotes": 25
+  }
+},
+{
+  "_id": "11d5ec9af682fbd39a1b1684",
+  "nombre": "Daniel Pedreros",
+  "edad": 22,
+  "equipo": "60d5ec9af682fbd39a1b1681",
+  "posicion": "Variado",
+  "estadisticas": {
+    "puntos": 6,
+    "asistencias": 10,
+    "rebotes": 10
+  }
+}]

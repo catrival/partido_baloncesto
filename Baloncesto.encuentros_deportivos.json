@@ -1,0 +1,40 @@
+[{
+  "_id": "10d5ec9af682fbd39a1b1687",
+  "equipoLocal": "60d5ec9af682fbd39a1b1681",
+  "equipoVisitante": "11d5ec9af682fbd39a1b1681",
+  "fecha": "2024-05-20T14:00:00Z",
+  "lugar": "Estadio Luna Park",
+  "arbitro": "60d5ec9af682fbd39a1b1686"
+},
+{
+  "_id": "20d5ec9af682fbd39a1b1687",
+  "equipoLocal": "60d5ec9af682fbd39a1b1681",
+  "equipoVisitante": "11d5ec9af682fbd39a1b1681",
+  "fecha": "2024-08-20T14:00:00Z",
+  "lugar": "Estadio Juan Guerrero",
+  "arbitro": "10d5ec9af682fbd39a1b1686"
+},
+{
+  "_id": "30d5ec9af682fbd39a1b1687",
+  "equipoLocal": "77d5ec9af682fbd39a1b1681",
+  "equipoVisitante": "37d5ec9af682fbd39a1b1681",
+  "fecha": "2024-09-20T14:00:00Z",
+  "lugar": "Coliseo Valluno Sport",
+  "arbitro": "20d5ec9af682fbd39a1b1686"
+},
+{
+  "_id": "40d5ec9af682fbd39a1b1687",
+  "equipoLocal": "60d5ec9af682fbd39a1b1681",
+  "equipoVisitante": "11d5ec9af682fbd39a1b1681",
+  "fecha": "2024-08-20T14:00:00Z",
+  "lugar": "Coliseo Univalle",
+  "arbitro": "30d5ec9af682fbd39a1b1686"
+},
+{
+  "_id": "50d5ec9af682fbd39a1b1687",
+  "equipoLocal": "11d5ec9af682fbd39a1b1681",
+  "equipoVisitante": "20d5ec9af682fbd39a1b1681",
+  "fecha": "2024-12-20T14:00:00Z",
+  "lugar": "Estadio Juan Guerrero",
+  "arbitro": "40d5ec9af682fbd39a1b1686"
+}]
